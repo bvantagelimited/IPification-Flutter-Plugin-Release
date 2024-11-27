@@ -71,10 +71,12 @@ Sync with native library android 2.0.18.2
 
 ## 2.0.21
 
-Sync with native library android 2.0.11.2
+Sync with native library ios 2.0.11.2
 
+## 2.0.22
 
+Sync with native library ios xcode 16
 
-## 2.0.22 (Xcode 16)
+## 2.0.23
 
-Sync with native library android 2.0.11.2
+Sync with native library android 2.0.18.3
