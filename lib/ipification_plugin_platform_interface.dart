@@ -3,7 +3,7 @@ import 'package:ipification_plugin/coverage_response.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 import 'ipification_plugin_method_channel.dart';
-import 'ipification_plugin.dart'; 
+import 'ipification.dart'; 
 
 abstract class IPificationPluginPlatform extends PlatformInterface {
   /// Constructs a IPificationPluginPlatform.

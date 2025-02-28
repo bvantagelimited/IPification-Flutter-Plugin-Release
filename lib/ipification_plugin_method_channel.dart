@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
-import 'ipification_plugin.dart'; 
+import 'ipification.dart'; 
 import 'package:flutter/services.dart';
 import 'package:ipification_plugin/authentication_response.dart';
 import 'package:ipification_plugin/coverage_response.dart';
