@@ -106,3 +106,7 @@ Sync with native library iOS 2.0.11.2 and android 2.0.18.4
 ## 2.0.28 (Xcode 16)
 
 Sync with native library iOS 2.0.11.5 and android 2.0.18.5
+
+## 2.0.28 (Xcode 16)
+
+Downgrade sdk to 3.6.0
